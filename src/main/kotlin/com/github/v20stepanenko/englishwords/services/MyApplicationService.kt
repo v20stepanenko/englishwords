@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.v20stepanenko.englishwords.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.v20stepanenko.englishwords.MyBundle
 
 class MyApplicationService {
 
